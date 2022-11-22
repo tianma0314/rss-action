@@ -5,6 +5,7 @@ on:
       - https://feedx.net/rss/guanzhi.xml
       - http://www.zreading.cn/feed
       - https://www.oranjeexpress.com/feed/
+      - https://www.huangjiwei.com/blog/?feed=rss2
 jobs:
   request:
     name: Make a HTTP Request
