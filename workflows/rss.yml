@@ -3,6 +3,7 @@ on:
     url:
       - https://cuphistory.net/feed/
       - https://feedx.net/rss/guanzhi.xml
+      - http://www.zreading.cn/feed
 jobs:
   request:
     name: Make a HTTP Request
