@@ -4,6 +4,7 @@ on:
       - https://cuphistory.net/feed/
       - https://feedx.net/rss/guanzhi.xml
       - http://www.zreading.cn/feed
+      - https://www.oranjeexpress.com/feed/
 jobs:
   request:
     name: Make a HTTP Request
