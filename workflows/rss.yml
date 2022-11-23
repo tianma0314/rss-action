@@ -2,7 +2,7 @@ on:
   rss:
     url:
       - https://feedx.net/rss/guanzhi.xml
-      - http://www.zreading.cn/feed
+      - https://rsshub.app/zhihu/daily
       - https://www.huangjiwei.com/blog/?feed=rss2
       - https://cuphistory.net/feed/
 jobs:
