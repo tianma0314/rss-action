@@ -6,6 +6,7 @@ on:
       - https://www.huangjiwei.com/blog/?feed=rss2
       - https://signal.supchina.com/feed/
       - https://cuphistory.net/feed/
+      - https://www.moerats.com/bilibili/rss/?id=3697166795
 jobs:
   request:
     name: Make a HTTP Request
