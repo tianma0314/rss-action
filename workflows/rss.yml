@@ -1,7 +1,6 @@
 on:
   rss:
     url:
-      - https://feedx.net/rss/guanzhi.xml
       - https://www.huangjiwei.com/blog/?feed=rss2
       - https://signal.supchina.com/feed/
       - https://cuphistory.net/feed/
